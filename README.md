@@ -1,4 +1,4 @@
-# pizza
+# Pizza
  How many pizzas are eaten every day worldwide?
 That's about 1.26 million per hour and 30 million each day. 
   ## About Pizza
